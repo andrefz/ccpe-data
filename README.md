@@ -10,13 +10,13 @@ LLVM version: 10.0.1
 - `llvm.opt.30k`: programas otimizados com 100 sequências.
 
 Programas em que a compilação falha para esta versão da llvm:
-- cBench.network_patricia.0.78.ll.txt
-- cBench.office_stringsearch1.0.1.ll.txt
-- DOE_ProxyApps_C.miniGMG.0.53.ll.txt
-- Misc.flops-6.0.74.ll.txt
-- Olden.em3d.0.14.ll.txt
-- PAQ8p.PAQ8p.0.3.ll.txt
-- PolyBench.medley-floyd-warshall.0.41.ll.txt
-- PolyBench.stencils-heat-3d.0.77.ll.txt
-- Shootout.lists.0.71.ll.txt
-- TSVC.IndirectAddressing-dbl.0.11.ll.txt
+- cBench.network_patricia.0.78.ll
+- cBench.office_stringsearch1.0.1.ll
+- DOE_ProxyApps_C.miniGMG.0.53.ll
+- Misc.flops-6.0.74.ll
+- Olden.em3d.0.14.ll
+- PAQ8p.PAQ8p.0.3.ll
+- PolyBench.medley-floyd-warshall.0.41.ll
+- PolyBench.stencils-heat-3d.0.77.ll
+- Shootout.lists.0.71.ll
+- TSVC.IndirectAddressing-dbl.0.11.ll
